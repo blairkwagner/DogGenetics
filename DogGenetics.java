@@ -27,7 +27,7 @@ public class DogGenetics {
 
         String[] breeds = {"Yellow Lab", "Yorkie :(", "snoop doggie dog", "Sheep Dog", "Chihuahua"};
 
-        System.out.println("Your dog " + dogName + " is unfortunately mix of: ");
+        System.out.println("Your dog " + dogName + " is a mix of: ");
 
         for (int i = 0; i < 5; i++) {
             String breed = "";
